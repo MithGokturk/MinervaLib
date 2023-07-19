@@ -29,7 +29,7 @@ internal class Program
             Console.WriteLine("5- Exit Programme");
             Console.WriteLine("***********************");
 
-            Console.Write("Lütfen yapmak istediğiniz işlemi seçin: ");
+            Console.Write("Please select the operation you want to perform: ");
             char selectedOption = Console.ReadKey().KeyChar;
             Console.WriteLine();
 
